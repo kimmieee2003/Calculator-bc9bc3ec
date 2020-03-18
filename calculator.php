@@ -8,7 +8,7 @@ $Eerste = readline();
 echo ("Tweede getal?");
 $Tweede = readline();
 echo (int) ($Eerste + $Tweede);
-} elseif($uitvoering == "-") {
+ } elseif($uitvoering == "-") {
     echo ("Eerste getal?");
     $Derde = readline();
     echo ("Tweede getal?");
